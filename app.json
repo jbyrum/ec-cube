@@ -12,4 +12,5 @@
             "url": "heroku/php"
         }
     ]
+    "stack":"heroku-16"
 }
